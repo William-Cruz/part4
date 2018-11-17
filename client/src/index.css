@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: 'Titillium Web',
+  sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:rgb(119, 57, 57);
+  background-color:rgb(118, 210, 247);
+  font-weight:bold
+}
+
