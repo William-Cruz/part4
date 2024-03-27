@@ -37,7 +37,7 @@
     "bluebird": "^3.5.3",
     "body-parser": "^1.17.1",
     "dotenv": "^2.0.0",
-    "express": "^4.14.0",
+    "express": "^4.19.2",
     "mongoose": "^4.13.17",
     "muicss": "^0.9.41",
     "react": "^15.5.4",
